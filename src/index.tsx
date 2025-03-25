@@ -3,9 +3,9 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import {value01_03} from "./sprint01_week03/01_03";
+import {value01_04} from "./sprint01_week04/01_04";
 
-let a = value01_03
+let a = value01_04
 
 
 const root = ReactDOM.createRoot(
